@@ -67,8 +67,8 @@ int main () {
 				}
 				fibo ();
 				cout << nfijo << (i == T ? "" : ", ");
-				break;
 			}
+			break;
 		default: {
 				cout << "Valor incorrecto" << endl;
 				break;
