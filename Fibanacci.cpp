@@ -46,8 +46,8 @@ int main () {
 
 		}
 		case 2: {
+			cout << "Estas usando la secuencia \"do-while\" \n" << endl;
 			do{
-				cout << "Estas usando la secuencia \"do-while\" \n" << endl;
 				cout << t1 << ", ";
 				fibo ();
 				cont++;
