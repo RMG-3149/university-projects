@@ -14,17 +14,18 @@ PROPOSITO: ESTE PROGRAMA ES UN FIBONACCI
 using namespace std;
 
 //---Variables------------------------------------------------------------------
-int t1= 0, t2= 1, nfijo=0;
+int T, t1= 0, t2= 1, nfijo=0;
 
 void fibo ();// calcula los terminos
+void verif ();// verifica que no halla un valor negativo
 
 //---Main-----------------------------------------------------------------------
 int main () {
-	int T,  opcion, cont=0;
+	int opcion, cont=0;
 
     cout << "Bienvenido al Fibonacci" << endl;
 
-	cout << "Cuantas Terminos deseas en tu fibonacci" << endl;
+	cout << "Cuantas terminos deseas en tu fibonacci" << endl;
 	cin >> T;
 
     cout << "***Menu de eleccion***" << endl;
@@ -37,6 +38,7 @@ int main () {
 	switch (opcion){
 		case 1: {
 			cout << "Estas usando la secuencia \"while\" \n" << endl;
+			verif ();
 			while (cont < T) {
 				cout << t1 << ", ";
 				fibo ();
@@ -46,8 +48,9 @@ int main () {
 
 		}
 		case 2: {
+			cout << "Estas usando la secuencia \"do-while\" \n" << endl;
+			verif ();
 			do{
-				cout << "Estas usando la secuencia \"do-while\" \n" << endl;
 				cout << t1 << ", ";
 				fibo ();
 				cont++;
@@ -56,6 +59,7 @@ int main () {
 		}
 		case 3: {
 			cout << "Estas usando la secuencia \"For\" \n" << endl;
+			verif ();
 			for (int i = 1; i <= T; i++) {
 				if(i == 1) { //muestra el primer termino
 					cout << t1 << ", ";
@@ -67,8 +71,8 @@ int main () {
 				}
 				fibo ();
 				cout << nfijo << (i == T ? "" : ", ");
-				break;
 			}
+			break;
 		default: {
 				cout << "Valor incorrecto" << endl;
 				break;
@@ -83,4 +87,11 @@ void fibo () {
 	nfijo = t1 + t2;
 	t1 = t2;
 	t2 = nfijo;
+}
+
+void verif () {
+	int verif=0;
+	if (verif<T) {
+		cout << "No existe, Fibonacci de terminos negativos" << endl;
+	}
 }
