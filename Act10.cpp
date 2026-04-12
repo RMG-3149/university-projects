@@ -15,7 +15,7 @@ PROPOSITO:
 using namespace std;
 
 // Variables globales-----------------------------------------------------------
-
+int a;
 //declaracion de funciones------------------------------------------------------
 bool rango (int num);
 bool entradaInvalida();
@@ -93,3 +93,4 @@ void secuencia (int num) {
     }
     cout << "=" << sum << "\n" << endl;
 }
+

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8848374e-96be-49e5-b654-355b322eb004" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ACT16.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT16.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act 19.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act 21.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act13.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act13.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act15.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act15.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act17.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act17.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Act20.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polindromos_y_Capicuas.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Act10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Act10.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de collatz.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de collatz.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="4BTv9FbH" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="3.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39s9Okb8R8kar6loprRdMl84FgJ" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.ACT16.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act 19.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act 21.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act10.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act11.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act13.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act15.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act17.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Act20.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Conjetura de collatz.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Polindromos_y_Capicuas.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.asdfgh.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.luisma .cpp.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rafae/OneDrive/Desktop/A/UDG/SEGUNDO SEM/Sergio Franco/Programacion estructurada/Codigos para Github/conjetura de collatz&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.Act 21.cpp">
+    <configuration name="Act 19.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="conjetura de collatz" TARGET_NAME="Act 19.cpp" CONFIG_NAME="Act 19.cpp">
+      <option name="sourceFile" value="Act 19.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Act 21.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="conjetura de collatz" TARGET_NAME="Act 21.cpp" CONFIG_NAME="Act 21.cpp">
+      <option name="sourceFile" value="Act 21.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Act17.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="conjetura de collatz" TARGET_NAME="Act17.cpp" CONFIG_NAME="Act17.cpp">
+      <option name="sourceFile" value="Act17.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Act20.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="conjetura de collatz" TARGET_NAME="Act20.cpp" CONFIG_NAME="Act20.cpp">
+      <option name="sourceFile" value="Act20.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="luisma .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="conjetura de collatz" TARGET_NAME="luisma .cpp" CONFIG_NAME="luisma .cpp">
+      <option name="sourceFile" value="luisma .cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Act 21.cpp" />
+        <item itemvalue="C/C++ File.Act20.cpp" />
+        <item itemvalue="C/C++ File.Act 19.cpp" />
+        <item itemvalue="C/C++ File.luisma .cpp" />
+        <item itemvalue="C/C++ File.Act17.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8848374e-96be-49e5-b654-355b322eb004" name="Changes" comment="" />
+      <created>1771473999353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771473999353</updated>
+      <workItem from="1771474002334" duration="2138000" />
+      <workItem from="1771510692394" duration="521000" />
+      <workItem from="1771511392699" duration="4343000" />
+      <workItem from="1771641453498" duration="3000" />
+      <workItem from="1771641467844" duration="5921000" />
+      <workItem from="1771712728617" duration="2122000" />
+      <workItem from="1771765323139" duration="452000" />
+      <workItem from="1772092387526" duration="1488000" />
+      <workItem from="1772104169170" duration="3530000" />
+      <workItem from="1772461009445" duration="2464000" />
+      <workItem from="1772677938648" duration="11285000" />
+      <workItem from="1772984523652" duration="8716000" />
+      <workItem from="1773066155129" duration="3505000" />
+      <workItem from="1773070439180" duration="652000" />
+      <workItem from="1773204340694" duration="1984000" />
+      <workItem from="1773238218745" duration="409000" />
+      <workItem from="1773238908047" duration="2318000" />
+      <workItem from="1773532959974" duration="47000" />
+      <workItem from="1773533623506" duration="80000" />
+      <workItem from="1773533774869" duration="7635000" />
+      <workItem from="1773682294237" duration="6501000" />
+      <workItem from="1773711236505" duration="9766000" />
+      <workItem from="1773764075689" duration="199000" />
+      <workItem from="1773771233468" duration="2253000" />
+      <workItem from="1773798226165" duration="3081000" />
+      <workItem from="1773810296611" duration="2921000" />
+      <workItem from="1773843174409" duration="3069000" />
+      <workItem from="1775495810449" duration="896000" />
+      <workItem from="1775579563780" duration="8522000" />
+      <workItem from="1775591553285" duration="20000" />
+      <workItem from="1775592966801" duration="2300000" />
+      <workItem from="1775670013006" duration="23087000" />
+      <workItem from="1776014426723" duration="2464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

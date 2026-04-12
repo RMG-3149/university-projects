@@ -68,7 +68,7 @@ int main() {
 
 //delimita un rango-------------------------------------------------------------
 bool rango (int n) {
-    return (n>=1 && n<=100000000);
+    return (n>=1 && n<=1000000);
 }//fin rango
 
 //verifica que cin este bien----------------------------------------------------
